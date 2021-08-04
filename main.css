@@ -17,13 +17,13 @@ body{
     background-image: url(/img/Logo.png);
     background-repeat: no-repeat;
     background-position: center 0px;
-    background-size: 190px 66px;
+    background-size: 150px 66px;
     height: 66px;
-    width: 190px;
+    width: 150px;
     position:fixed;
     left: 50%;
     top: 18px;
-    margin-left: -75px;
+    margin-left: -90px;
 }
 
 .nav-button{
